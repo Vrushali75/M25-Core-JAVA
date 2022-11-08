@@ -39,7 +39,6 @@ public abstract class ShopAcc {
 	}
 
 	
-	
 	@Override
 	public String toString() {
 		return String.format("ShopAcc [accNo=%s, accName=%s, charges=%s]", accNo, accName, charges);
